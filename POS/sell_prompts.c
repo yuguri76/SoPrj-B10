@@ -77,6 +77,9 @@ void table_management_prompt(int table_num) {
             } else {
                 process_payment(table_num);
             }
+        } else if (ret == 5)
+        {
+            combine_Table(table_num);
         }
     }
 }
