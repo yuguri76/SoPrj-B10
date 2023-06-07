@@ -1,0 +1,6 @@
+[submodule "external/dirent"]
+	path = external/dirent
+	url = https://github.com/tronkko/dirent/
+[submodule "external/unity"]
+	path = external/unity
+	url = https://github.com/ThrowTheSwitch/Unity
